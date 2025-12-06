@@ -1,4 +1,4 @@
-# Trợ lý phân loại cảm xúc tiếng Việt sử dụng Transformer 
+# Đồ án Trợ lý phân loại cảm xúc tiếng Việt sử dụng Transformer 
 
 ## Cấu trúc thư mục
 
